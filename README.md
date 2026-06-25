@@ -137,7 +137,7 @@ State Rank = RANKX(ALL(CIIReport[State/UT]), [Crimes 2021], , DESC)
 
 | Homepage | Global Threats | India Regional Analysis |
 |---|---|---|
-| ![Home](D:/git projects/Cybersecurity/Homepage.jpeg) | ![Global](screenshots/global_threats.png) | ![India](screenshots/india_analysis.png) |
+| ![Home](Homepage.jpeg) | ![Global](Global_threats.jpeg) | ![India](India_analysis.jpeg) |
 
 ---
 
